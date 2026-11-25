@@ -1,6 +1,6 @@
 # 🕵️ Digital Forensics Case Study — Data Exfiltration Investigation
 
-**Author:** Shahad Alhrbi
+**Author:** Shahad Alharbi
 **Field:** Digital Forensics & Incident Response (DFIR)
 **Tools:** Autopsy · The Sleuth Kit · PowerShell · QuickStego · 7-Zip · HxD
 
@@ -158,4 +158,4 @@ Two points were documented transparently:
 
 ---
 
-*Investigation and report by **Shahad Alhrbi**.*
+*Investigation and report by **Shahad Alharbi**.*
